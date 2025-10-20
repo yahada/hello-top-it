@@ -1,6 +1,6 @@
 #include <iostream>
 int main(){
-	std::cout << "Hi top-it";
+	std::cout << "Hii top-it";
 	std::cout << "\n";
-	std::cout << "bimbimbimbambambam";
+
 }
